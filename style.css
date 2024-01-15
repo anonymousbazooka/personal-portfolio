@@ -1,0 +1,62 @@
+html {
+background-color: rgba(87, 10, 10, 0.425);
+margin: 0;
+padding: 0;
+background-size: cover;
+background-position: center;
+background-repeat: no-repeat;
+scroll-behavior: smooth;
+}
+.content {
+  text-align: center;
+  padding: 50px;
+  color: #fff;
+}
+h1 {
+  font-family: 'Libre Baskerville', serif;
+font-family: 'Rubik Glitch', system-ui;
+  text-align: center;
+  text-transform: capitalize;
+  font-size: 2rem;
+}
+ul a > li {
+  margin:  20px ;
+  display: inline-block;
+  color: #fff;
+  font-family: 'Libre Baskerville', serif;
+  font-family: 'Rubik Glitch', system-ui;
+}
+ .flag {
+  position: relative;
+ display: inline-block;
+ margin-left: 85%;
+
+ }
+img {
+  position: relative;
+  background-position: center;
+  padding: 0%;
+  margin: 0%;
+  border-radius: 20%;
+  border: 10px solid white;
+}        
+
+div {
+  text-align: justify;
+text-transform: capitalize;
+font-family: 'Encode Sans', sans-serif;
+font-size: 1rem;
+}
+footer {
+  text-align: center;
+}
+ul  li {
+  text-align: justify;
+text-transform: capitalize;
+font-family: 'Encode Sans', sans-serif;
+font-size: 1rem;
+}
+.tech {
+  font-family: 'Libre Baskerville', serif;
+  font-family: 'Rubik Glitch', system-ui;
+}
